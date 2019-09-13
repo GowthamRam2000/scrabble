@@ -27,7 +27,3 @@ This game is NOT complete! There are several bugs that do not follow the rules o
 	A move after the first move in the center of the board will always be valid.
 	Words can be put directly next to each other or on top of each other.
 
-About this program: 
-During my first semester of college I was tasked with creating a Scrabble game. We only needed to
-get the input on the board but since then I implemented checks for valid moves and valid words.
-The game is still unfinished but I work on it when I have free time.
